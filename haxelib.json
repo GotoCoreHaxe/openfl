@@ -1,0 +1,26 @@
+{
+  "name": "gotocore-hx-openfl",
+  "url": "https://github.com/GotoCoreHaxe/openfl",
+  "license": "MIT",
+  "tags": [
+    "flash",
+    "cpp",
+    "python",
+    "c#",
+    "neko",
+    "js",
+    "lime"
+  ],
+  "description": "",
+  "version": "1.0.0",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "openfl": "",
+    "lime": "",
+    "gotocore-hx": ""
+  }
+}
